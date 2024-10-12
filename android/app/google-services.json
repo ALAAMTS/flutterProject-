@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "920008545128",
+    "project_id": "khdamme-a6e56",
+    "storage_bucket": "khdamme-a6e56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920008545128:android:5932771e578fcd5e0cfcdd",
+        "android_client_info": {
+          "package_name": "com.ALAA.khdamme_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnB4294Ri_8W4tra6iHNs6HMoItHKbl5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
